@@ -3,7 +3,7 @@ title: Docsy
 description: A Hugo theme for creating great technical documentation sites
 ---
 
-{{% blocks/cover title="Welcome to Docsy!" image_anchor="top" height="full" %}}
+{{% blocks/cover title="¡Bienvenido!" image_anchor="top" height="full" %}}
 {{% param description %}}
 {.display-6}
 
