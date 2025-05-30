@@ -1,5 +1,5 @@
 ---
-title: Docsy
+title: Gessure
 description: A Hugo theme for creating great technical documentation sites
 ---
 
@@ -15,8 +15,8 @@ description: A Hugo theme for creating great technical documentation sites
 {{% /blocks/cover %}}
 
 {{% blocks/lead color="primary" %}}
-Aquí va texto que es sólo de relleno y más.
 
+Aquí va texto que es sólo de relleno y más.
 Docsy is a theme for the Hugo static site generator that's specifically designed
 for technical documentation sets. Our aim is to help you get a working
 documentation site up and running as easily as possible, so you can concentrate
