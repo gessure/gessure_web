@@ -1,6 +1,6 @@
 ---
 title: Gessure
-description: A Hugo theme for creating great technical documentation sites
+description: Página principal
 ---
 
 {{% blocks/cover title="¡Bienvenido!" image_anchor="top" height="full" %}}
