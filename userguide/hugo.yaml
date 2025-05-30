@@ -1,4 +1,4 @@
-baseURL: https://www.docsy.dev/
+baseURL: http://localhost:1313/ 
 title: Docsy
 enableRobotsTXT: true
 enableGitInfo: true
